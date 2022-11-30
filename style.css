@@ -1,0 +1,48 @@
+.wrapper {
+    text-align: center;
+    border: 1px solid red;
+}
+
+
+.wrapper_title {
+    color: red;
+}
+
+.wrapper_subtitle {
+    color: green;
+    font-size: 60px;
+}
+
+.wrapper_btn {
+    background: yellow;
+    outline: none;
+    border: none;
+    box-shadow: 0 0 0 04px black;
+    cursor: pointer;
+}
+
+
+.wrapper_btn:hover {
+    transform: translateX(-0.5px);
+}
+
+.foto1 {
+    width: 250px;
+    height: 250px;
+}
+
+.foto2 {
+    width: 250px;
+    height: 250px;
+}
+
+.foto3 {
+    width: 250px;
+    height: 250px;
+}
+
+
+.foto4 {
+    width: 250px;
+    height: 250px;
+}
